@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.jmbw.budgetmng
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, gradle, groovy, groovy-application, http-client, jackson-databind, jdbc-hikari, logback, micronaut-build, mysql, netty-server, readme, shade, spock, testcontainers, yaml]
